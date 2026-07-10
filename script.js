@@ -11,6 +11,7 @@ function searchResult() {
         document.getElementById("result").innerHTML =
           "<h2>Allocated Trade</h2>" +
           "<p><b>Registration No:</b> " + data.registrationNo + "</p>" +
+          "<p><b>Name:</b> " + data.name + "</p>" +
           "<p><b>Trade:</b> " + data.trade + "</p>";
 
       } else {
