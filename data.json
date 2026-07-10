@@ -1,0 +1,14 @@
+[
+  {
+    "RegistrationNumber": "123456",
+    "CandidateName": "Rahul Patel",
+    "Trade": "COPA",
+    "ITI": "Government ITI Dabhoi"
+  },
+  {
+    "RegistrationNumber": "987654",
+    "CandidateName": "Priya Shah",
+    "Trade": "Electrician",
+    "ITI": "Government ITI Savli"
+  }
+]
