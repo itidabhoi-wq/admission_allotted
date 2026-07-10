@@ -2,7 +2,7 @@ function searchResult() {
 
   let regNo = document.getElementById("regNo").value.trim();
 
-  fetch("YOUR_WEB_APP_URL?regNo=" + encodeURIComponent(regNo))
+  fetch("https://script.google.com/macros/s/AKfycbzy7M7ALuaE3h3IHgb_8VEnPJPdAickIn_uPJQ_wpjGdYlEwS7fFEo2KVJoyNlihCltKg/exec?regNo=" + encodeURIComponent(regNo))
     .then(response => response.json())
     .then(data => {
 
